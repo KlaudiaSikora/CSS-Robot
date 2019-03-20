@@ -1,2 +1,3 @@
 # CSS-Robot
-A CSS Robot with Animations and Transforms
+An Interactive CSS Robot.
+Made for learning purposes (CSS Animations and Transforms).
